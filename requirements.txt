@@ -1,0 +1,12 @@
+einops==0.3.0
+ftfy==6.0.1
+lm_dataformat==0.0.19
+numpy==1.21.0
+pybind11==2.6.2
+regex
+sentencepiece
+six
+tokenizers==0.10.2
+transformers==4.5.0
+wandb==0.10.28
+deepspeed
